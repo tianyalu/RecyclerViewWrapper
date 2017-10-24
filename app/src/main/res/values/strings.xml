@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RecyclerViewWrapper</string>
+
+    <!-- print menu -->
+    <string name="print_last">Last</string>
+    <string name="print_any">Any</string>
+    <string name="print_total">Total</string>
+    <string name="print_detail">Details</string>
+    <string name="print_summary">Summary</string>
+    <string name="print_last_batch">LastBatch</string>
+
+
+    <string name="no_data">No data</string>
+</resources>
